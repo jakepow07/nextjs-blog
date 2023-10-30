@@ -24,7 +24,7 @@ export default function Home( { allPostsData }) {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>Welcome, my name is Jake. I'm just getting started off on the blogging world. My special interested is finance. The topic of all posts on this site will be related to the markets. I personally invest, and am influenced by the value investing introduced by Benjamin Graham.
+        <p>Welcome, my name is Jake. I'm just getting started off in the blogging world. My main interest is finance. The topic of all posts on this site will be related to the markets. I personally invest, and am influenced by the value investing concepts introduced by Benjamin Graham.
           
         </p>
         <p>To start off here are some books I would recommend that influenced my understanding of the finance world</p>
@@ -45,12 +45,7 @@ export default function Home( { allPostsData }) {
           
         </ul>
         </figure>
-        
-        <p>
-         ( This is a sample website = you'll be building a site like this on {''})
-        </p>
-
-
+      
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog </h2>
