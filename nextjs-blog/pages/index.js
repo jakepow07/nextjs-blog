@@ -24,7 +24,28 @@ export default function Home( { allPostsData }) {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>Hi, my name is Jake. I'm just getting started off on the blogging world</p>
+        <p>Welcome, my name is Jake. I'm just getting started off on the blogging world. My special interested is finance. The topic of all posts on this site will be related to the markets. I personally invest, and am influenced by the value investing introduced by Benjamin Graham.
+          
+        </p>
+        <p>To start off here are some books I would recommend that influenced my understanding of the finance world</p>
+        <figure>
+          <figcaption>Research</figcaption>
+          <ul>
+          <li>The Intelligent Investor by Benjamin Graham</li>
+          <li>Security Analysis by Benjamin Graham</li>
+          <li>Buffet: The Making of an American Capitalist by Roger Lowenstein</li>
+          <li>The Alchemy of Finance by George Soros</li>
+        </ul>
+        </figure>
+        <figure>
+          <figcaption>Recreation</figcaption>
+          <ul>
+          <li>The Big Short by Michael Lewis</li>
+          <li>Liar's Poker by Michael Lewis</li>
+          
+        </ul>
+        </figure>
+        
         <p>
          ( This is a sample website = you'll be building a site like this on {''})
         </p>
