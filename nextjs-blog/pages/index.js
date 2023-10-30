@@ -42,6 +42,7 @@ export default function Home( { allPostsData }) {
           <ul>
           <li>The Big Short by Michael Lewis</li>
           <li>Liar's Poker by Michael Lewis</li>
+          <li>Baruch: My Own Story by Bernard Baruch</li>
           
         </ul>
         </figure>
